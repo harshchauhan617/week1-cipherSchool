@@ -1,0 +1,48 @@
+.heading{
+    color: aqua;
+}
+p{
+    color: aquamarine;
+}
+.main-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(108, 108, 223);
+    border: 10px dashed black;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(108, 108, 223);
+    border: 10px dashed black;
+    padding: 10px;
+    margin: 10px;
+    overflow: scroll;
+  
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(108, 108, 223);
+    border: 10px dashed black;
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+   
+    
+}
+body{
+    background-color: red;
+}

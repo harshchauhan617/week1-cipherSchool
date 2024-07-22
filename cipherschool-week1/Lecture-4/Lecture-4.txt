@@ -1,0 +1,25 @@
+checkout -> safe command
+
+revert -> to revert back in the time of commits
+
+:wq to exit 
+
+git checkout
+
+to get back to current status 
+
+git checkout master
+
+master is the main branch
+
+git reset -> it will delete the whole history 
+
+git reset --hard 9b2e691
+
+git branch sample_branch
+
+git branch
+
+git checkout lecture-0
+
+git checkout master

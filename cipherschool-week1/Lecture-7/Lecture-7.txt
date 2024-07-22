@@ -1,0 +1,5 @@
+learn about basics of the html
+learned about HTML tags:
+
+HTML: Hypertext markup laguage
+Tags = <html></html>

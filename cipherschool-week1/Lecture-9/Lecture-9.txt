@@ -1,0 +1,28 @@
+------------- HTML semantics --------------- 
+header 
+navbar 
+what is website about 
+contact info 
+
+==> sematics tags
+<header>
+
+<nav>
+
+<section>
+    <section>
+        <article>
+        <aside>
+        <details>
+        <main>
+        <summary>
+        <figure>
+        <figcaption>
+<footer>
+
+==> non-sematics tags
+    <div> 
+    <span>
+
+
+

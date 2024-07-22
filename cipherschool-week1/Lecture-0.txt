@@ -1,0 +1,11 @@
+git config --global user.name "Harikishor mishra"
+
+git config --global user.email "harikishorpwn2020@gmail.com"
+
+
+git init 
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/harikishoremishra.git
+git push -u origin main

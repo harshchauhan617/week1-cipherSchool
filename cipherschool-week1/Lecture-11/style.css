@@ -1,0 +1,27 @@
+#headerr{
+    background-color: blue;
+    color: pink;
+}
+#section{
+    background-color: aquamarine;
+    
+}
+
+.para1{
+    color: rgb(167, 8, 8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: wider;
+}
+a{
+    text-decoration: none;
+
+}
+p{
+    text-decoration: underline;
+    color:antiquewhite;
+}
+#section.inside
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: pink;
+}
